@@ -14,4 +14,6 @@
 13. compatibility  the ability of people or things to live or exist together without problems
 14. fine  of high quality
 15. coarse  rough or loose in texture or grain
-16. 
+16. posterior  coming after in time or order;later
+17. convex  having an outline or surface curved like the exterior of a circle or sphere.
+18. semantic  relating to meaning in language or logic
