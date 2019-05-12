@@ -1,6 +1,6 @@
 <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script> -->
 
-## Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly
+## Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images
 
 ### 写作背景及目的
 #### 背景
